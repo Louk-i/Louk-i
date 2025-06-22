@@ -8,4 +8,4 @@ Learning: Javascript, Rust, Kotlin, Swift
 
 I want to learn more about AI and maybe make a game or two along the way. I like playing games a lot.
 
-
+This is my non-professional github profile, no information here has any information about my professional career, ty :3
